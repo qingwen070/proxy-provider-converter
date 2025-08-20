@@ -6,7 +6,7 @@
 
 ### 什么是 Proxy Provider 和 External Group？
 
-[Proxy Provider](https://github.com/Dreamacro/clash/wiki/configuration#proxy-providers) 是 Clash 的一项功能，可以让用户从指定路径动态加载代理服务器列表。使用这个功能你可以将 Clash 订阅里面的代理服务器提取出来，放到你喜欢的配置文件里，也可以将多个 Clash 订阅里的代理服务器混合到一个配置文件里。External Group 则是 Proxy Provider 在 Surge 里的叫法，作用是一样的。
+[Proxy Provider]([https://github.com/Dreamacro/clash/wiki/configuration#proxy-providers](https://github.com/qingwen070/proxy-provider-converter?tab=readme-ov-file)) 是 Clash 的一项功能，可以让用户从指定路径动态加载代理服务器列表。使用这个功能你可以将 Clash 订阅里面的代理服务器提取出来，放到你喜欢的配置文件里，也可以将多个 Clash 订阅里的代理服务器混合到一个配置文件里。External Group 则是 Proxy Provider 在 Surge 里的叫法，作用是一样的。
 
 ### 怎么自己部署转换工具？
 
